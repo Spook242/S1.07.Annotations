@@ -1,4 +1,4 @@
-package nivel1Ejercicio1;
+package nivel1Ejercicio2;
 
 public class Worker {
 
