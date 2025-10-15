@@ -8,6 +8,7 @@ public class Demo {
 
     int hours = 175;
 
+
     public void showSalaries() {
 
         System.out.println("Salary for " + worker + ": " + worker.calculateSalary(hours) + " €.");
