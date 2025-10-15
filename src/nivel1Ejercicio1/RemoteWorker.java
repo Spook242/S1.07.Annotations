@@ -1,10 +1,10 @@
 package nivel1Ejercicio1;
 
-public class OnlineWorker extends Worker {
+public class RemoteWorker extends Worker {
 
     private static final double INTERNET = 50.0;
 
-    public OnlineWorker (String name, String lastName, double priceHour) {
+    public RemoteWorker(String name, String lastName, double priceHour) {
         super(name, lastName, priceHour);
     }
 

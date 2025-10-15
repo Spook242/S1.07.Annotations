@@ -1,10 +1,10 @@
 package nivel1Ejercicio1;
 
-public class InPersonWorker extends Worker {
+public class OfficeWorker extends Worker {
 
     public static double gas = 100;
 
-    public InPersonWorker(String name, String lastName, double priceHour) {
+    public OfficeWorker(String name, String lastName, double priceHour) {
         super (name, lastName, priceHour);
     }
 
@@ -14,6 +14,5 @@ public class InPersonWorker extends Worker {
 
 
     }
-
 
 }
